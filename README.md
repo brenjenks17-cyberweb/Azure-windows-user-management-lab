@@ -24,7 +24,15 @@ This lab demonstrates hands-on experience managing user accounts within a Window
 - Cloud-hosted VM interaction
 
 ## Screenshots
-See `/screenshots` folder
+
+### Created User
+![Created User](screenshots/Screenshot 2026-02-03 235844.png)
+
+### User List
+![User List](screenshots/user-list.png)
+
+### Group Membership
+![Groups](screenshots/groups.png)
 
 ## Key Takeaway
 This lab strengthened foundational administrative skills used in IT support and security roles, including identity management and system access configuration within a cloud environment.
