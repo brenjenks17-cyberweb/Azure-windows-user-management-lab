@@ -26,7 +26,7 @@ This lab demonstrates hands-on experience managing user accounts within a Window
 ## Screenshots
 
 ### Created User
-![Created User](screenshots/created-user.png)
+![Created User](screenshots/Created-users.png)
 
 ### User List
 ![User List](screenshots/user-list.png)
