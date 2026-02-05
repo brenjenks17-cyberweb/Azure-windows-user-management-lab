@@ -31,8 +31,10 @@ This lab demonstrates hands-on experience managing user accounts within a Window
 ### User List
 ![User List](screenshots/User-list.png)
 
-### Group Membership
-![Groups](screenshots/groups.png)
+### Group List
+![Groups List](screenshots/Groups.png)
 
+### Group Permissions
+![Group Permissions](screenshots/Role-assign-all-groups.png)
 ## Key Takeaway
 This lab strengthened foundational administrative skills used in IT support and security roles, including identity management and system access configuration within a cloud environment.
